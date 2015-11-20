@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dinnertime Dilemma</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hungry">Are you hungry???</string>
+    <string name="random">Don\'t Wanna Choose?</string>
+
+
+</resources>
