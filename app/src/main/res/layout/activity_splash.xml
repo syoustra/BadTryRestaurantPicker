@@ -17,9 +17,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="43dp"
         android:textSize="30sp"
-        android:textStyle="bold"
-        android:singleLine="false"
-        android:foregroundGravity="right"/>
+        android:textStyle="bold" />
 
     <Button
         android:layout_width="wrap_content"
@@ -29,14 +27,5 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="38dp"/>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="SAMPLE RESTAURANT"
-        android:id="@+id/restaurantTextView"
-        android:layout_below="@+id/hungryTextView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="77dp"/>
 
 </RelativeLayout>
